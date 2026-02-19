@@ -1,31 +1,30 @@
-# 👋 Hi there, I'm Saurabh Kumar!
+### Hi there, I'm Saurabh Kumar! 👋
 
-## About Me
-Data Analyst | BCA Student  
+#### About Me
 
-I am a BCA student with strong skills in Advanced Excel, SQL, Python (NumPy, Pandas), and Power BI. I enjoy working with data, cleaning it, analyzing it, and converting raw information into meaningful insights and interactive dashboards.
+##### Data Analyst | BCA Student
+I am a BCA student with strong skills in Advanced Excel, SQL, Python (NumPy, Pandas), and Power BI. I enjoy working with data, cleaning and analyzing datasets, and transforming raw information into meaningful insights and interactive dashboards. 
 
-I have hands-on experience in creating Excel dashboards using Pivot Tables, data cleaning techniques, and performance analysis. I am continuously improving my SQL and Python skills to become a professional Data Analyst.
+I have hands-on experience in building Excel dashboards using Pivot Tables, data validation, and performance analysis. I am continuously improving my analytical and technical skills to grow as a professional Data Analyst.
 
-I am passionate about learning and looking for opportunities where I can apply my analytical skills in real-world projects.
+#### My Projects
 
-##  Projects
+Here are a few projects I've worked on and uploaded to GitHub:
 
-### Sales Dashboard (Excel)
-Built an interactive sales dashboard using Pivot Tables, data cleaning, KPI tracking, and performance insights.
+- **Sales Dashboard (Excel)**: Built an interactive dashboard using Pivot Tables, KPI tracking, and performance insights.
+- **Data Analysis Practice (Python)**: Performed data manipulation and analysis using NumPy and Pandas.
+- **Power BI Dashboard**: Created interactive dashboards to visualize sales and business data.
 
-### Data Analysis Practice (Python)
-Performed data manipulation and analysis using NumPy and Pandas.
+#### Skills
 
-### Power BI Dashboard
-Created basic interactive dashboards to visualize sales and business data.
+- **Data Analysis Tools**: Advanced Excel, Power BI
+- **Database**: SQL
+- **Programming**: Python (NumPy, Pandas)
 
-## Skills
+#### Connect with Me
 
-**Data Analysis Tools**
-- Advanced Excel  
-- SQL  
-- Power BI
-  
-**Programming**
-- Python (NumPy, Pandas)
+<p align="left">
+  <a href="https://linkedin.com/](https://www.linkedin.com/in/saurabh-kumar-646370358/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" style="margin-right: 10px;" />
+  </a>
+</p>
