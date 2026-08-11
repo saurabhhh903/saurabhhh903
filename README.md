@@ -8,9 +8,7 @@ I am a BCA student with strong skills in Advanced Excel, SQL, Python (NumPy, Pan
 I have hands-on experience in building Excel dashboards using Pivot Tables, data validation, and performance analysis. I am continuously improving my analytical and technical skills to grow as a professional Data Analyst.
 
 #### My Projects
-
 Here are a few projects I've worked on and uploaded to GitHub:
-## My Projects
 
 - **Mobile Sales Dashboard (Power BI):** Built an interactive sales dashboard to analyze total sales, quantity, transactions, average price, MTD sales, SPLY comparison, city-wise sales, mobile model performance, payment methods, and customer ratings using Power BI, Power Query, DAX, and data modeling.
 
